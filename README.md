@@ -70,6 +70,20 @@ The objective of this project is to transform raw job market data into meaningfu
 
 This dashboard provides a data-driven view of the evolving AI job market, helping users understand hiring trends, salary expectations, industry demand, workforce transformation, and future skill requirements.
 
+## Dashboard Screenshots
+
+### Page 1 - AI Job Market Analysis
+![Page 1](dashboard_page1.png)
+
+### Page 2 - AI Impact Analysis
+![Page 2](dashboard_page2.png)
+
+### Page 3 - Salary & Career Insights
+![Page 3](dashboard_page3.png)
+
+### Page 4 - Future of AI Jobs
+![Page 4](dashboard_page4.png)
+
 ## Author
 
 **Chethana Aakarshani**
