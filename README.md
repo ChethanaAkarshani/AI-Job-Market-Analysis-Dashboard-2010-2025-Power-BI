@@ -1,89 +1,77 @@
-AI Job Market Analysis Dashboard (2010–2025)
+# AI Job Market Analysis Dashboard (2010–2025)
 
-Project Overview
+## Overview
 
-This project presents a comprehensive analysis of the global AI job market using Power BI. The dashboard explores hiring trends, salary patterns, industry demand, AI adoption stages, automation risks, reskilling requirements, and emerging AI skills.The goal is to transform raw job market data into actionable insights that support data-driven decision-making for students, professionals, recruiters, and organizations.
+This project presents a comprehensive Power BI dashboard that analyzes global AI job market trends from 2010 to 2025. The dashboard explores hiring patterns, salary insights, AI adoption levels, automation risks, reskilling requirements, and future workforce trends.
 
-Objectives
-Analyze global AI job market growth from 2010–2025
-Identify industries with the highest AI hiring demand
-Explore regional distribution of AI opportunities
-Evaluate AI intensity and automation risks across industries
-Examine salary trends by job role, company size, and seniority level
-Identify future AI skills and technologies driving workforce demand
+The objective of this project is to transform raw job market data into meaningful business insights through interactive visualizations and data-driven storytelling.
 
-Tools & Technologies
-Power BI
-Power Query
-DAX
-Data Modeling
-Data Visualization
-Dashboard Pages
+## Objectives
 
-1. AI Job Market Analysis Dashboard
+* Analyze AI job market growth over time
+* Identify industries with the highest AI hiring demand
+* Explore regional and global distribution of AI jobs
+* Examine AI intensity and automation risk across industries
+* Analyze salary trends by job title, company size, and seniority level
+* Identify emerging AI skills and technologies shaping the future workforce
 
-Key Insights:
+## Tools & Technologies
 
-Total AI jobs analyzed
-Global distribution of AI jobs
-Regional demand analysis
-Industry-wise job distribution
-Job posting trends (2010–2025)
+* Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
+* Data Modeling
+* Data Visualization
 
-2. AI Impact Analysis Dashboard
+## Dashboard Pages
 
-Key Insights:
+### 1. AI Job Market Analysis Dashboard
 
-AI intensity across industries
-Automation risk analysis
-Reskilling requirements
-AI job displacement risks
-AI intensity vs automation risk comparison
+* Total AI jobs analyzed
+* Global distribution of AI opportunities
+* Regional demand analysis
+* Industry-wise hiring trends
+* Job posting trends (2010–2025)
 
-3. Salary & Career Insights Dashboard
+### 2. AI Impact Analysis Dashboard
 
-Key Insights:
+* AI intensity across industries
+* Automation risk assessment
+* Reskilling requirements
+* AI job displacement risk analysis
+* AI intensity vs automation risk comparison
 
-Average salary trends
-Salary growth analysis
-Salary comparison by company size
-Salary by experience level
-Highest-paying AI job roles
+### 3. Salary & Career Insights Dashboard
 
-4. Future of AI Jobs Dashboard
+* Average salary analysis
+* Salary growth trends
+* Salary by company size
+* Salary by seniority level
+* Highest-paying AI job roles
 
-Key Insights:
+### 4. Future of AI Jobs Dashboard
 
-AI adoption stages
-Emerging AI technologies
-Most in-demand AI skills
-AI-related job mentions
-Future workforce trends
+* AI adoption stage distribution
+* Emerging AI technologies
+* Most in-demand AI skills
+* AI-related job trends
+* Future workforce insights
 
-Key Findings
-AI job demand has grown steadily across industries.
-Technology and finance sectors show strong AI adoption.
-Automation risk varies significantly across industries.
-Reskilling has become a critical requirement for future jobs.
-Senior-level positions receive the highest average salaries.
-Deep Learning, NLP, and Machine Learning remain among the most demanded AI skills.
+## Key Insights
 
-Project Outcome
+* AI job demand has steadily increased across multiple industries.
+* Technology and finance sectors demonstrate strong AI adoption.
+* Automation risk varies significantly between industries.
+* Reskilling is becoming increasingly important in AI-driven workplaces.
+* Senior-level positions generally command higher salaries.
+* Deep Learning, NLP, and Machine Learning remain among the most sought-after AI skills.
 
-The dashboard enables stakeholders to understand:
+## Project Outcome
 
-Current AI hiring trends
-Future workforce requirements
-Salary expectations
-AI adoption patterns
-Emerging technology demands
-Screenshots
+This dashboard provides a data-driven view of the evolving AI job market, helping users understand hiring trends, salary expectations, industry demand, workforce transformation, and future skill requirements.
 
-(Add screenshots of all four dashboard pages here.)
+## Author
 
-Author
-Chethana Akarshani
-IT Undergraduate | Data Analytics Enthusiast 
+**Chethana Aakarshani**
 
-
-IT Undergraduate | Data Analytics Enthusiast | Power BI Developer
+IT Undergraduate | Data Analytics Enthusiast
